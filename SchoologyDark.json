@@ -1,0 +1,72 @@
+{
+    "name": "Rounded Dark",
+    "version": 2,
+    "color": {
+        "custom": {
+            "primary": "#000000",
+            "hover": "#40444b",
+            "background": "#000000",
+            "border": "#bababa",
+            "link": "#6fa8dc"
+        },
+        "modern": {
+            "dark": true,
+            "interface": {
+                "primary": "#000000",
+                "accent": "#202225",
+                "secondary": "#202225",
+                "input": "#40444b",
+                "border": "#bababa",
+                "highlight": "#4a86e8",
+                "active": "rgba(0, 255, 255, 0.1)",
+                "grades": "#8bc34a",
+                "error": "#f44336"
+            },
+            "calendar": [
+                "#457da5",
+                "#547c41",
+                "#926c37",
+                "#7c3d6b",
+                "#0b4c9c",
+                "#00209c",
+                "#004a09",
+                "#72721a",
+                "#44233e",
+                "#683131",
+                "#770a0a",
+                "#a72413",
+                "#e0024c",
+                "#188c16",
+                "#bd7304",
+                "#80168c",
+                "#164152",
+                "#00543f",
+                "#633e11",
+                "#461b2d",
+                "#00427c",
+                "#603073",
+                "#8b1941",
+                "#970c0c",
+                "#9c3b07",
+                "#685203",
+                "#2a5f16",
+                "#09584f",
+                "#005a75",
+                "#4d5557"
+            ],
+            "text": {
+                "primary": "#ffffff",
+                "muted": "#72767d",
+                "contrast": "#eeeeee"
+            },
+            "options": {
+                "borderRadius": 10,
+                "borderSize": 1,
+                "padding": 10
+            }
+        }
+    },
+    "logo": {
+        "url": "https://i.imgur.com/QlfGe1A.png"
+    }
+}
